@@ -1,11 +1,11 @@
-Chronoshift: A Strategic Puzzle Platformer Adventure on Improving Cognitive Skill.
-Programming Language: GDScript
-Game Engine: GoDot
+Chronoshift: A Strategic Puzzle Platformer Adventure on Improving Cognitive Skill. <br />
+Programming Language: GDScript <br />
+Game Engine: GoDot<br />
 
-Group Leader:
+Group Leader:<br />
 Jeric Juguan
 
-Group Members:
-Arreglado, Dexter Dioscoro
-Barbuco, Kurt Harvey
+Group Members:<br />
+Arreglado, Dexter Dioscoro<br />
+Barbuco, Kurt Harvey<br />
 Panaligan, Justin Mhon
